@@ -1,0 +1,19 @@
+/* 
+    Document   : html.forms
+    Created on : Oct 10, 2013, 10:24:03 AM
+    Author     : ArMz-SWEngineer
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.textbox{
+    height: 25px;
+    border:1px solid #cccccc;
+    background-color: #ffffff;
+    font-family: Arial;
+    font-size: 13px;
+}
+
+.textbox:focus{
+    border:1px solid #999999;
+}

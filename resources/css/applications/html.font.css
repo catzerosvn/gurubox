@@ -1,0 +1,73 @@
+/* 
+    Document   : html.font
+    Created on : Oct 10, 2013, 10:32:32 AM
+    Author     : ArMz-SWEngineer
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.font11{
+    font-family: Arial;
+    font-size: 11px;
+}
+
+.font9{
+    font-family: Arial;
+    font-size: 9px;
+}
+
+.font12{
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.font13{
+    font-family: Arial;
+    font-size: 13px;
+}
+
+.font12-blue{
+    font-family: Arial;
+    font-size: 12px;
+    color: #0066CC;
+}
+
+
+
+.font12-blue a:link{
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 12px;
+    color: #0066CC;
+}
+
+.font12-blue a:hover{
+    color: #0066FF;
+}
+
+.font12-blue a:active,a:visited{
+    color: #0099FF;
+}
+
+.font15{
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.font16{
+    font-family: Arial;
+    font-size: 16px;
+}
+
+.font18{
+    font-family: Arial;
+    font-size: 18px;
+}
+
+.font16-textbox{
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 5px;
+}

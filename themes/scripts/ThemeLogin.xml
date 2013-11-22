@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Script>
+    <!-- CSS Libs -->
+        <Import type="stylesheet">libraries/jquery/jquery-ui-1.10.2.custom.css</Import>
+        <Import type="stylesheet">libraries/960gridsystem/960gridsystem.css</Import>
+        <Import type="stylesheet">applications/html.forms.css</Import>
+        <Import type="stylesheet">applications/html.font.css</Import>
+        <Import type="stylesheet">libraries/metroui/modern.css</Import>
+        
+        <!-- CSS Theme  -->
+        <Import type="stylesheet">applications/theme.login.css</Import>
+        
+        <!-- JS Libs -->
+        <Import type="javascript">libraries/jquery/jquery-1.9.1.js</Import>
+        <Import type="javascript">libraries/jquery/jquery-ui-1.10.2.custom.min.js</Import>
+        <Import type="javascript">libraries/userdefined/users.func.util.js</Import>
+</Script>

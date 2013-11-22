@@ -1,0 +1,22 @@
+/* 
+    Document   : theme.login
+    Created on : Oct 9, 2013, 4:37:54 PM
+    Author     : ArMz-SWEngineer
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body{
+    margin: 0px 0px 0px 0px;
+}
+
+.top-bg{
+    height: 70px;
+    background-image: url(../../../resources/images/bg-top.png);
+    background-repeat: repeat-x;
+    border-bottom: 1px solid #dadada;
+}
